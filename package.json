@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edisonneza/jspdf-invoice-template.git"
+    "url": "git+https://github.com/muhaiminulIslamIkhlas/react-pdf.git"
   },
   "keywords": [
     "jspdf-template",
@@ -24,9 +24,9 @@
   "author": "Edison Neza <edisonneza.dev@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/edisonneza/jspdf-invoice-template/issues"
+    "url": "https://github.com/muhaiminulIslamIkhlas/react-pdf.git"
   },
-  "homepage": "https://github.com/edisonneza/jspdf-invoice-template#readme",
+  "homepage": "https://github.com/muhaiminulIslamIkhlas/react-pdf.git",
   "dependencies": {
     "jspdf": "^2.3.1"
   },
